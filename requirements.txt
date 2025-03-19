@@ -4,3 +4,5 @@ requests
 transformers
 beautifulsoup4
 newspaper3k
+lxml
+lxml_html_clean
