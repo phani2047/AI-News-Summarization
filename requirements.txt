@@ -3,3 +3,4 @@ uvicorn
 requests
 transformers
 beautifulsoup4
+newspaper3k
